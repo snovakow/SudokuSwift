@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		D287FEC92D9DC0FE005EF738 /* Sudoku.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sudoku.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D287FEEC2DA01E6E005EF738 /* Sudoku.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sudoku.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		D287FECB2D9DC0FE005EF738 /* Sudoku */ = {
+		D287FEEE2DA01E6E005EF738 /* Sudoku */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = Sudoku;
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D287FEC62D9DC0FE005EF738 /* Frameworks */ = {
+		D287FEE92DA01E6E005EF738 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D287FEC02D9DC0FE005EF738 = {
+		D287FEE32DA01E6E005EF738 = {
 			isa = PBXGroup;
 			children = (
-				D287FECB2D9DC0FE005EF738 /* Sudoku */,
-				D287FECA2D9DC0FE005EF738 /* Products */,
+				D287FEEE2DA01E6E005EF738 /* Sudoku */,
+				D287FEED2DA01E6E005EF738 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D287FECA2D9DC0FE005EF738 /* Products */ = {
+		D287FEED2DA01E6E005EF738 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D287FEC92D9DC0FE005EF738 /* Sudoku.app */,
+				D287FEEC2DA01E6E005EF738 /* Sudoku.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D287FEC82D9DC0FE005EF738 /* Sudoku */ = {
+		D287FEEB2DA01E6E005EF738 /* Sudoku */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D287FED52D9DC0FF005EF738 /* Build configuration list for PBXNativeTarget "Sudoku" */;
+			buildConfigurationList = D287FEF72DA01E6F005EF738 /* Build configuration list for PBXNativeTarget "Sudoku" */;
 			buildPhases = (
-				D287FEC52D9DC0FE005EF738 /* Sources */,
-				D287FEC62D9DC0FE005EF738 /* Frameworks */,
-				D287FEC72D9DC0FE005EF738 /* Resources */,
+				D287FEE82DA01E6E005EF738 /* Sources */,
+				D287FEE92DA01E6E005EF738 /* Frameworks */,
+				D287FEEA2DA01E6E005EF738 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				D287FECB2D9DC0FE005EF738 /* Sudoku */,
+				D287FEEE2DA01E6E005EF738 /* Sudoku */,
 			);
 			name = Sudoku;
 			packageProductDependencies = (
 			);
 			productName = Sudoku;
-			productReference = D287FEC92D9DC0FE005EF738 /* Sudoku.app */;
+			productReference = D287FEEC2DA01E6E005EF738 /* Sudoku.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D287FEC12D9DC0FE005EF738 /* Project object */ = {
+		D287FEE42DA01E6E005EF738 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					D287FEC82D9DC0FE005EF738 = {
+					D287FEEB2DA01E6E005EF738 = {
 						CreatedOnToolsVersion = 16.3;
 					};
 				};
 			};
-			buildConfigurationList = D287FEC42D9DC0FE005EF738 /* Build configuration list for PBXProject "Sudoku" */;
+			buildConfigurationList = D287FEE72DA01E6E005EF738 /* Build configuration list for PBXProject "Sudoku" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = D287FEC02D9DC0FE005EF738;
+			mainGroup = D287FEE32DA01E6E005EF738;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = D287FECA2D9DC0FE005EF738 /* Products */;
+			productRefGroup = D287FEED2DA01E6E005EF738 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D287FEC82D9DC0FE005EF738 /* Sudoku */,
+				D287FEEB2DA01E6E005EF738 /* Sudoku */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D287FEC72D9DC0FE005EF738 /* Resources */ = {
+		D287FEEA2DA01E6E005EF738 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D287FEC52D9DC0FE005EF738 /* Sources */ = {
+		D287FEE82DA01E6E005EF738 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		D287FED32D9DC0FF005EF738 /* Debug */ = {
+		D287FEF52DA01E6F005EF738 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -177,16 +177,18 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		D287FED42D9DC0FF005EF738 /* Release */ = {
+		D287FEF62DA01E6F005EF738 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -232,109 +234,96 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		D287FED62D9DC0FF005EF738 /* Debug */ = {
+		D287FEF82DA01E6F005EF738 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = Sudoku/Sudoku.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 598SK6Q3K5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = snovakow.Sudoku;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REGISTER_APP_GROUPS = YES;
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.4;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		D287FED72D9DC0FF005EF738 /* Release */ = {
+		D287FEF92DA01E6F005EF738 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = Sudoku/Sudoku.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 598SK6Q3K5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 15.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = snovakow.Sudoku;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				REGISTER_APP_GROUPS = YES;
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 2.4;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D287FEC42D9DC0FE005EF738 /* Build configuration list for PBXProject "Sudoku" */ = {
+		D287FEE72DA01E6E005EF738 /* Build configuration list for PBXProject "Sudoku" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D287FED32D9DC0FF005EF738 /* Debug */,
-				D287FED42D9DC0FF005EF738 /* Release */,
+				D287FEF52DA01E6F005EF738 /* Debug */,
+				D287FEF62DA01E6F005EF738 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D287FED52D9DC0FF005EF738 /* Build configuration list for PBXNativeTarget "Sudoku" */ = {
+		D287FEF72DA01E6F005EF738 /* Build configuration list for PBXNativeTarget "Sudoku" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D287FED62D9DC0FF005EF738 /* Debug */,
-				D287FED72D9DC0FF005EF738 /* Release */,
+				D287FEF82DA01E6F005EF738 /* Debug */,
+				D287FEF92DA01E6F005EF738 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D287FEC12D9DC0FE005EF738 /* Project object */;
+	rootObject = D287FEE42DA01E6E005EF738 /* Project object */;
 }

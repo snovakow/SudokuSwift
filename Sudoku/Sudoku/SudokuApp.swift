@@ -2,7 +2,7 @@
 //  SudokuApp.swift
 //  Sudoku
 //
-//  Created by Scott on 2025-04-02.
+//  Created by Scott on 2025-04-04.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct SudokuApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+			WebView(url: URL(string: "https://www.swiftyplace.com")!)
         }
     }
 }
